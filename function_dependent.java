@@ -1,6 +1,6 @@
 package OOPS_base;
 import java.util.Scanner;
-public class sidd {
+public class function_dependent {
 	static public int multiply(int n){
 		return 5*n;
 	}
