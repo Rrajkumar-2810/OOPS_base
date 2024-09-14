@@ -1,8 +1,6 @@
 package OOPS_base;
 import java.util.Scanner;
-
 public class sidd {
-	
 	static public int multiply(int n){
 		return 5*n;
 	}
