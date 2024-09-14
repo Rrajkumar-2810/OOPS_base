@@ -18,5 +18,4 @@ public class memv_initialize {
 		ob.display();
 
 	}
-
 }
